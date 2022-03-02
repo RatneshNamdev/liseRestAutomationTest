@@ -1,5 +1,6 @@
 package com.liseInfotech.RestAssuredTest;
 
+import org.testng.annotations.Test;
 import org.apache.http.HttpStatus;
 import org.testng.annotations.Test;
 
